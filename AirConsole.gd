@@ -1,4 +1,3 @@
-class_name AirConsole
 extends Node
 
 const SCREEN = 0
